@@ -1,5 +1,5 @@
 # ynotwins
-A repository of early explorations into the world of game development.
+A repository documenting my early explorations into the world of game development.
 
 # first_acrade_game
 Very nearly a copy of this tutorial:
